@@ -1,0 +1,9 @@
+# IDE
+.idea/
+.iml
+
+# thrid-party packages
+node_modules/
+
+token
+dbconfig
